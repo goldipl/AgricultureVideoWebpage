@@ -5,7 +5,7 @@
 * [Live](#live-star2)
 
 ## General info
-Agriculture video webpage wrtiiten using pure HTML, CSS & JS.
+Agriculture video webpage written using pure HTML, CSS & JS.
 
 ## Technologies
 Used technologies:
