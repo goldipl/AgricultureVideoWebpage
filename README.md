@@ -14,11 +14,11 @@ Used technologies:
 * CSS3
 
 ## Screens
-* Desktop version :computer:     
---*To Do*
+* Desktop version :computer:      
+![Screenshot](./img/screenshot_desktop.png)   
 
 * Mobile version :iphone:     
---*To Do*
+![Screenshot](./img/screenshot_mobile.png)
 
 ## Live :star2:
 * https://goldipl.github.io/AgricultureVideoWebpage/
