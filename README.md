@@ -5,13 +5,13 @@
 * [Live](#live-star2)
 
 ## General info
-Agriculture video webpage written using pure HTML, CSS & JS.
+Agriculture video webpage written using pure HTML, SCSS & JS.
 
 ## Technologies
 Used technologies:
 * JavaScript
 * HTML5
-* CSS3
+* SCSS
 
 ## Screens
 * Desktop version :computer:      
