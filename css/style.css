@@ -48,6 +48,32 @@ header .logo {
   background-color: #1d5838;
   position: absolute;
   right: -260px;
+  -webkit-transition: 1s;
+  transition: 1s;
+  -webkit-animation: rotate 1s ease-in-out;
+          animation: rotate 1s ease-in-out;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
 }
 
 nav {

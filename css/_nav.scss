@@ -13,6 +13,17 @@
         background-color: #1d5838;
         position: absolute;
         right: -260px;
+        transition: 1s;
+        animation: rotate 1s ease-in-out;
+    }
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(180deg);
     }
 }
 
