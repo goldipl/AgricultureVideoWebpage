@@ -44,7 +44,7 @@ header .logo {
 	cursor: pointer;
 }
 
-section {
+section.hero {
 	position: absolute;
 	right: 0;
 	width: 100%;
@@ -58,11 +58,11 @@ section {
 	z-index: 2;
 }
 
-section.active {
+section.hero.active {
 	right: 300px;
 }
 
-section video {
+section.hero video {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -174,8 +174,8 @@ nav ul li a:hover {
 }
 
 @media (max-width: 1000px) {
-	section,
-	section header {
+	section.hero,
+	section.hero header {
 		padding: 40px;
 	}
 
