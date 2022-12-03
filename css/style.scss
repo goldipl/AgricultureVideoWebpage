@@ -3,3 +3,14 @@
 @import 'header';
 @import 'nav';
 @import 'hero';
+
+html {
+	scroll-behavior: smooth;
+}
+
+section {
+	position: relative;
+	padding: 64px 0;
+	width: 85vw;
+	margin: 0 auto;
+}

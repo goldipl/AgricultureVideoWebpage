@@ -82,7 +82,6 @@ nav ul li a:hover {
 }
 
 section.hero {
-  position: absolute;
   right: 0;
   width: 100%;
   min-height: 100vh;
@@ -212,5 +211,16 @@ section.hero video {
   .text p {
     font-size: 16px;
   }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  position: relative;
+  padding: 64px 0;
+  width: 85vw;
+  margin: 0 auto;
 }
 /*# sourceMappingURL=style.css.map */
